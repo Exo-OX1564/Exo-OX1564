@@ -47,6 +47,6 @@ I am a js, python, typescript and C++ enthusiast (still learning them!) <img src
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Exo-OX1564&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=DD23C1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Exo-OX1564&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=DD23C1&ring=DD11DA)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exo-OX1564&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
